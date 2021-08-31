@@ -5,13 +5,13 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=docsudhachand/api
+dockerpath=dockerbeginnersiva/api
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 
-docker login -u docsudhachand
+docker login -u dockerbeginnersiva
 docker tag api $dockerpath:latest
 
 # Step 3:

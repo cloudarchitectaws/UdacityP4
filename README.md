@@ -1,5 +1,4 @@
-[![cloudarchitectaws](https://github.com/cloudarchitectaws/UdacityP4.svg?style=shield)](https://github.com/cloudarchitectaws/UdacityP4)
-
+[![CircleCI](https://circleci.com/gh/cloudarchitectaws/UdacityP4/tree/main.svg?style=svg)](https://circleci.com/gh/cloudarchitectaws/UdacityP4/tree/main)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 

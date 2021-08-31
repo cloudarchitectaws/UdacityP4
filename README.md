@@ -1,4 +1,4 @@
-[![cloudarchitectaws](https://github.com/cloudarchitectaws/UdacityP4.svg?style=svg)](https://github.com/cloudarchitectaws/UdacityP4)
+[![cloudarchitectaws](https://github.com/cloudarchitectaws/UdacityP4.svg?style=shield)](https://github.com/cloudarchitectaws/UdacityP4)
 
 ## Project Overview
 

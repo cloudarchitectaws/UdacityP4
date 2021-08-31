@@ -1,4 +1,4 @@
-[![Yourfriendsudha](https://circleci.com/gh/Yourfriendsudha/DevopsML.svg?style=svg)](https://circleci.com/gh/Yourfriendsudha/DevopsML)
+[![cloudarchitectaws](https://github.com/cloudarchitectaws/UdacityP4.svg?style=svg)](https://github.com/cloudarchitectaws/UdacityP4)
 
 ## Project Overview
 
@@ -24,8 +24,8 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ---
 ## Clone the Source code
 
-git clone https://github.com/Yourfriendsudha/DevopsML.git
-cd DevopsML/
+git clone https://github.com/cloudarchitectaws/UdacityP4.git
+cd UdacutyP4/
 
 ## Setup the Environment
 
